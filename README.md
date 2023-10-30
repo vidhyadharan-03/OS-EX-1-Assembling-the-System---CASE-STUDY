@@ -1,49 +1,65 @@
 # OS-EX-1-Assembling-the-System---CASE-STUDY
-
 ## AIM:
 To assemble the computer system
 
 ## STEPS:
-1.Grounding oneself can be done by using an antistatic wrist-strap cable to prevent electrostatic discharge (ESD) which can be deadly to computer electronics. Alternatively, a large metal body like a radiator can also be touched to discharge oneself
+### Step 1: Open The Case 
+### Step 2: Install The Power Supply 
+### Step 3: Attach The Components To Motherboard
+### Step 4: Install motherboard 
+### Step 5: Install internal drives 
+### Step 6: Connect all internal cables 
+### Step 7: Install motherboard power connections
+### Step 8: Connect external cables to the computer 
+### Step 9: Starting the computer
 
-![268250196-7327a514-8531-4f9f-868d-e08bf471b8e1](https://github.com/vidhyadharan-03/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/114286357/caa4dd86-4990-46fa-aed0-c8251b7c7f5c)
+## PROCEDURE:
+## Step 1: Open The Case
+The First Step In Assembling A Computer Is To Open The Computer Case. To Open The Case, First Remove The Screws Of The Left Side Cover And Slide The Side Cover.
 
-2.To Open the case. Unscrew the side panel (or slide it toward the back of the case) to do so.
+![image](https://github.com/Niroshassithanathan/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/121418437/417ccc30-0297-4971-845e-ef35c3b9160d)
 
-3.Install the power supply. Some cases come with the power supply already installed, while others will require to purchase the power already installed, while others will require to purchase the power supply separately and install it ourself. Have to make sure that the power supply is install in the correct orientation and nothing is blocking the power supplies fan.
+## Step 2: Install The Power Supply
+The Next Step Is To Install A Power Supply. There Are Usually Four Screws That Attach .The Power Supply To The Case.
 
-4.Add components to the motherboard this is usually easiest to do before installing the motherboard as the case can limit ability to wire components. Apply the thermal paste to the processor if necessary put a small dot of the thermal paste on the CPU
+![image](https://github.com/Niroshassithanathan/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/121418437/85661d5b-de85-4381-a9e0-5587b0c0d7bd)
 
-![268250225-e3a4b029-5eff-4f86-90a2-f5a0ad66e4f5](https://github.com/vidhyadharan-03/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/114286357/5381f5a1-debf-4a4a-a66d-f56109a80636)
+## Step 3: Attach The Components To Motherboard
+The Motherboard Has To Be Prepared Before Its Installation. To Prepare The Motherboard, You First Need To Install . The CPU, Then The Heat Sink On The CPU And CPU Fan.To Install The RAM First On The Motherboard And Then Fix The Motherboard In The Case. To Install RAM, First Ensure Its Compatibility With The Motherboard.
 
-5.Adding to much thermal paste will create a mess such as getting paste into the motherboard socket which may short circuit components and decrease the motherboard value if planning to sell it later
+![image](https://github.com/Niroshassithanathan/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/121418437/f37efa6a-7be0-4ae9-9647-e3c6f2b64713)
 
-6.Attach the heat sink. This varies from heat sink to heat sink, so read the instructions for the processor. a. Most stock coolers attach directly over the processor and clip into the motherboard. b. Aftermarket heat sinks may have brackets that need to be attached underneath the motherboard. c. Skip this step if processor has an installed heat sink.
+![image](https://github.com/Niroshassithanathan/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/121418437/70a3a147-19e0-47d4-af20-44c0e332ae45)
 
-![268250284-cbf74d6e-9e80-4c3c-8118-0a2d85ca9841](https://github.com/vidhyadharan-03/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/114286357/28694669-386a-4e82-99d3-867817c2daa2)
+## Step 4: Install motherboard
+After Preparing The Motherboard, You Can Install In the Computer Case. Connect The Assembly Power Cable To The CPU Fan Connector On The Motherboard.
 
-7.Prepare the case needs to knock the plates out of the back of the case in order to fit the components into the correct positions. a. If the case has separate shelving units to hold the hard drive, install the units using the included screws. b. May need to install and wire the case's fans before installing any components. If so, follow the case's fan installation instructions.
+![image](https://github.com/Niroshassithanathan/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/121418437/32b17056-bc2f-4d02-bc27-46b2b21b6c08)
 
-8.Secure the motherboard. Once the standoffs are installed, place the motherboard in the case and push it up against the backplate. All of the back ports should fit into the holes in the I/O backplate. a. Use the screws provided to secure the motherboard to the standoffs through the shielded screw holes on the motherboard.
+## Step 5: Install internal drives
+The Hard Drive Is The Device Which Stores All The Data. Connect The Power Cable Coming From The SMPS To The Power Socket Of Hard Disk Drive.Connect SATA Data Cable From Hard Disk Drive Socket To The Motherboard Socket
 
-9.Plug in the case connectors. These tend to be located together on the motherboard near the front of the case. The order in which these are connected will depend on which is easiest. Make sure that the USB ports are connected, the Power and Reset switches, the LED power and hard drive lights, and the audiocable. The motherboard’s documentation will show where on the motherboard these connectors attach. a. There is typically only one way that these connectors can attach to the motherboard. Do not try to force anything to fit.
+![image](https://github.com/Niroshassithanathan/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/121418437/e031c8e2-6071-4b89-8da3-04e9dcd89f82)
 
-10. Install the hard drive. This process will vary slightly depending on your case, but should typically go as follows: a. Remove any front panels on the case. b. Insert the hard drive into its slot (usually near the top of the case). c. Tighten any screws needed to hold the drive-in place. d. Plug the hard drive's SATA cable into the SATA slot on the motherboard.
-11.Connect the power supply to any necessary components. If the power supply is not connected to components which need power, make sure that it is connected to the following locations: a. Motherboard b. Graphics card(s) c. Hard drive(s)
+## Step 6: Connect all internal cables
+Power Cables Are Used To Distribute Electricity From the Power Supply To The Motherboard And Other Components. Data Cables transmit Data Between The Motherboard And Storage Devices, Such As Hard Drives.
 
-12. Finish the computer assembly. Once placed and connected the various internal components for the computer, all that's left to do is ensure that none of the wires interfere with circulation and close up the case. a. If bought a cooling system, install it before proceeding. Refer to the cooling system's installation instructions in order to do so. b. Many cases will have a panel which either slides back into place or screws onto the side of the case.
+![image](https://github.com/Niroshassithanathan/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/121418437/34cbf3ca-d666-41f2-bc7a-5925cc9ca0be)
 
-## RUNNING THE COMPUTER:
-1.Attach the computer to an outlet. Using the power source's power cable, plug the computer into a wall outlet or power strip. a. May first have to attach the electrical cable to the power source input on the back of the computer's case.
+## Step 7: Install motherboard power connections
+The Advanced Technology Extended (ATX) Main Power Connector Will Have Either 20 Or 24 Pins.
 
-2.Plug a monitor into the computer. Typically use the graphics card output that is near the bottom of the case, though some motherboards may have this port on the right or left side of the case. a. The output here is usually a DisplayPort or HDMI port.
+![image](https://github.com/Niroshassithanathan/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/121418437/949fd3aa-3a3f-4f0e-8e01-fad564e4933f)
 
-3.Turn on the computer. Press the computer's Power button on the front or back of the case. If everything's properly connected, the computer should start up
+## Step 8: Connect external cables to the computer
+The VGA Cable Is Used To Connect To Monitor. If It Uses A USB Connector, Plug It Into Any Of The USB Ports On The Back Of The Computer.Connect The External Speakers Or Headphones, To Computer’s Audio Port (Either On The Front Or Back Of the Computer Case) . Power Supply Cable Connect Into The Back Of The Computer Case
 
-![268250329-5c68d5df-4ac3-4489-a157-ee3473156b2f](https://github.com/vidhyadharan-03/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/114286357/28d815c6-44de-4fc6-ba8c-8342131d06a5)
+![image](https://github.com/Niroshassithanathan/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/121418437/63f8db4b-1d84-4bbd-93b7-7fe11836c171)
 
-4.Install Windows or Linux. Windows is compatible with all PCs and will make full use of their various features (e.g., Bluetooth), but will have to purchase a copy of Windows if not having a product key. Linux is free but may not be able to use all the computer's hardware. a. If not having an installation USB drive, need to create one on another computer before can install the operating system.
+## Step 9: Starting the computer
+Always Remember That The First Step Is To Push Power Button Of The CPU Than The Monitor’s. An Operating System Or System Software . Like Window Or Linux Will Start Loading, Now Your Computer Is Ready To Use.
 
-5.Install the drivers. Once the operating system is installed, need to install the drivers. Almost all the hardware that was purchased should come with discs that contain the driver software needed for the hardware to work. • Modern versions of Windows and Linux will install most drivers automatically when connected to the Internet.
+![image](https://github.com/Niroshassithanathan/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/121418437/f3c56fd1-a8c5-45ed-ab5e-a02662314e14)
+
 ## RESULT:
 The Computer System has been successfully assembled
